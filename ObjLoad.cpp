@@ -90,7 +90,8 @@ int main(int argc, char** argv)
     glutReshapeFunc(reshape);
     glutDisplayFunc(display);
     glutIdleFunc(display);
-    loadObj(""E:\Archan\Work\obj\AcqBody_000000000020171219162440.obj"");//replace porsche.obj with radar.obj or any other .obj to display it
+    loadObj(""obj\AcqBody_000000000020171219162440.obj"");
+
     glutMainLoop();
     return 0;
 }
