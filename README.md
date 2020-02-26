@@ -9,3 +9,4 @@ Paste it in respective visual studio folders
 
 Open Windows Console Application in  Visual Studio and run the ObjLoad.cpp File
 
+The output snapshot is in Result.JPG
